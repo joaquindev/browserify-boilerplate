@@ -1,0 +1,25 @@
+{
+  "name": "browserify-boilerplate",
+  "version": "0.0.1",
+  "description": "Browserify boilerplate. Basic examples",
+  "main": "index.html",
+  "dependencies": {
+    "gamma": "~0.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/joaquindev/browserify-boilerplate.git"
+  },
+  "keywords": [
+    "browserify",
+    "nodejs"
+  ],
+  "author": "joaquindev",
+  "license": "BSD",
+  "readmeFilename": "README.md",
+  "gitHead": "146d8be3e4258394a0a92e0daa53de65d130c5f5"
+}
